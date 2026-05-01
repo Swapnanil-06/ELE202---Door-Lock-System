@@ -1,0 +1,5 @@
+data/LCDconfig.h.i
+data/FRDM-s401.h.i
+data/SLCD.cpp.i
+data/SLCD.h.i
+data/LCD_config.h.i
