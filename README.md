@@ -1,4 +1,4 @@
-# ELE202 — Door Lock System
+# ELE202 - Door Lock System
 
 An embedded access control system developed as part of the ELE202 In-Circuit Emulation Design Exercise. The system is built around the NXP MKL46Z256VLL4 microcontroller, featuring a 48 MHz ARM Cortex-M0 processor core, and is implemented in C++.
 
